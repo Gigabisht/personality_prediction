@@ -69,7 +69,7 @@ team_animate=load_lottiefile("lottiefiles/team.json")
 with st.sidebar:
     nav=option_menu(
     menu_title="Main Menu",
-    options=["INTRODUCTION","ABOUT PROJECT","PREDICT PERSONALITY","DEVELO"],
+    options=["INTRODUCTION","ABOUT PROJECT","PREDICT PERSONALITY"],
     menu_icon="cast",
     icons=["easel2-fill","file-earmark-ppt-fill","info-circle","file-person"],
     orientation="vertical",
